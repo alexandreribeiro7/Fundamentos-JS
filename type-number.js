@@ -20,6 +20,6 @@ console.log(novaOperacao)
 
 // NaN -> Not A Number (Não é um Número)
 
-const alura = "alura";
+const altura = "altura";
 
-console.log(alura * primeiroNumero)
+console.log(altura * primeiroNumero)

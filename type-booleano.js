@@ -8,7 +8,7 @@ const cadastroAtivado = true;
 
 //console.log(primeiroNumero === segundoNumero);
 
-const texto1 = "alura";
-const texto2 = "Alura";
+const texto1 = "altura";
+const texto2 = "Altura";
 
 console.log(texto1 === texto2);
